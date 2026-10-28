@@ -10,7 +10,7 @@ class AllMovies extends React.Component {
                 poster={require("./img/doctor-sleep.jpg")}/>
                 <Movie title={"Midway"} year={2020} icon_name={"person-rifle"} icon_color={"green"}
                        poster={require("./img/midway.jpg")}/>
-                <Movie title={"The Dark Knight"} year={2009} icon_name={"cat"} icon_color={"red"}
+                <Movie title={"The Dark Knight"} year={2008} icon_name={"cat"} icon_color={"red"}
                        poster={{uri:"https://i.pinimg.com/736x/b4/22/37/b42237eb02a184ae56d6cb5cfdfaa9e0.jpg"}} />
         </ScrollView>
         );
